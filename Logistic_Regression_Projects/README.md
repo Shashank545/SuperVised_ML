@@ -1,13 +1,13 @@
 This is a concise dossier of Logistic Regression based Machine Learning assignments along with related datasets. I have taken a very basic step-by-step approach to help anyone understand it with ease.
 
 ## Dependencies to execute the notebook:
-Python 3.6.x
-Pip installation manager
-Jupyter Notebook
-Numpy
-Pandas
-Matplotlib
-Seaborn
+1.Python 3.6.x
+2.Pip installation manager
+3.Jupyter Notebook
+4.Numpy
+5.Pandas
+6.Matplotlib
+7.Seaborn
 
 
 ## Types of Logistic Regression
