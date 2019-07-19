@@ -28,5 +28,5 @@ The model in Polynomial Regression now becomes a non-linear combination of the f
 
 
 ## References :
-https://realpython.com/linear-regression-in-python/#simple-linear-regression
-https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef
+1) https://realpython.com/linear-regression-in-python/#simple-linear-regression
+2) https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef
