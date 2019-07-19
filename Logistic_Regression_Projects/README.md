@@ -10,7 +10,7 @@ Matplotlib
 Seaborn
 
 
-#Types of Logistic Regression
+# Types of Logistic Regression
 
 1. Binary Logistic Regression
 The categorical response has only two 2 possible outcomes. Example: Spam or Not
