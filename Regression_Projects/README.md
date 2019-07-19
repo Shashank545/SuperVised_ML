@@ -1,4 +1,4 @@
-This is a concise synopsis of all regression based Machine Learning asiignments along with used datasets. I have taken a very basic step-by-step approach to help anyone understand it with ease. 
+This is a concise synopsis of all regression based Machine Learning assignments along with associated datasets. I have taken a very basic step-by-step approach to help anyone understand it with ease and no prior knowledge. 
 
 # Dependencies to execute the notebook:
 1) Python 3.6.x
