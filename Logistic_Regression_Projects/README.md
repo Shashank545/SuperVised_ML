@@ -1,4 +1,4 @@
-This is a concise dossier of Logis Regression based Machine Learning asiignments along with used datasets. I have taken a very basic step-by-step approach to help anyone understand it with ease.
+This is a concise dossier of Logistic Regression based Machine Learning assignments along with related datasets. I have taken a very basic step-by-step approach to help anyone understand it with ease.
 
 # Dependencies to execute the notebook:
 Python 3.6.x
