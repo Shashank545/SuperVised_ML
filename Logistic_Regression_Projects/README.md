@@ -1,6 +1,6 @@
 This is a concise dossier of Logistic Regression based Machine Learning assignments along with related datasets. I have taken a very basic step-by-step approach to help anyone understand it with ease.
 
-# Dependencies to execute the notebook:
+## Dependencies to execute the notebook:
 Python 3.6.x
 Pip installation manager
 Jupyter Notebook
@@ -10,7 +10,7 @@ Matplotlib
 Seaborn
 
 
-# Types of Logistic Regression
+## Types of Logistic Regression
 
 1. Binary Logistic Regression
 The categorical response has only two 2 possible outcomes. Example: Spam or Not
