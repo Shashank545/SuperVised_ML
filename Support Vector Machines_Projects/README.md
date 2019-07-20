@@ -2,13 +2,13 @@
 This section contains the implementation of SVM on a standard inbuilt dataset.
 
 ## Dependencies to execute the notebook:
-Python 3.6.x
-Pip installation manager
-Jupyter Notebook
-Numpy
-Pandas
-Matplotlib
-Seaborn
+1. Python 3.6.x
+2. Pip installation manager
+3. Jupyter Notebook
+4. Numpy
+5. Pandas
+6. Matplotlib
+7. Seaborn
 
 
 ## What is Support Vector Machine ?
