@@ -2,19 +2,19 @@
 This is a concise compilation of k-NN based Machine Learning assignments along with related datasets. I have taken a very basic step-by-step approach to help anyone understand without any hassle..
 
 ## Dependencies to execute the notebook:
-Python 3.6.x
-Pip installation manager
-Jupyter Notebook
-Numpy
-Pandas
-Matplotlib
-Seaborn
+1. Python 3.6.x
+2. Pip installation manager
+3. Jupyter Notebook
+4. Numpy
+5. Pandas
+6. Matplotlib
+7. Seaborn
 
-![github-large] (
 
 ## k-NN in Short
 An object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
 
+![alt text](images/knn2.jpg)
 
 ## References :
 1. https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
