@@ -8,3 +8,8 @@ I would like to thank in advance for all open-source practitioner for support a 
 
 Link for dataset used :
 https://drive.google.com/open?id=1JTfN7SglRVJi5KU24eKlMi1lsjT6u-jK
+
+
+## A glimse of Sentiments
+
+![alt text](images/sa1.jpg)
