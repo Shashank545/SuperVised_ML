@@ -17,8 +17,8 @@ Single Variable Linear Regression is a technique used to model the relationship 
 The model in Polynomial Regression now becomes a non-linear combination of the feature variables i.e there can be exponential variables, sine and cosine, etc. This however requires knowledge of how the data relates to the output. Regression models can be trained using Stochastic Gradient Descent (SGD).
 
 # Visualizing Regression Models
-![alt test](image/lr1.png)
-![alt text](image/lr2.png)
+![alt test](images/lr1.png)
+![alt text](images/lr2.png)
 
 
 # Pros of Regression 
