@@ -1,3 +1,4 @@
+## Introduction
 This is a concise dossier of Logistic Regression based Machine Learning assignments along with related datasets. I have taken a very basic step-by-step approach to help anyone understand it with ease.
 
 ## Dependencies to execute the notebook:
@@ -8,6 +9,12 @@ This is a concise dossier of Logistic Regression based Machine Learning assignme
 5) Pandas
 6) Matplotlib
 7) Seaborn
+
+## Visualization of Logistic Regression
+
+![alt text](images/LogReg_1.png)
+![alt text](images/LogReg_2.PNG)
+
 
 
 ## Types of Logistic Regression
